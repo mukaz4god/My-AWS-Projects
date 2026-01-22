@@ -24,13 +24,13 @@ KFJ Solutions Ltd, a fintech startup, planned to migrate sensitive payment servi
 * Align with AWS Well-Architected Security Pillar
 
 **🛠️ Solution Design**
-Security Controls Implemented
-**Control	              Description**
-Root MFA	              Prevented unauthorized root access
-IAM Admin User	        Eliminated operational root usage
-AWS Budgets	            Cost anomaly detection & alerts
-CloudTrail	            Full audit logging across regions
-IAM Access Analyzer	    Detection of risky access configurations
+Security Controls Implemented <br/>
+**Control	              Description** <br/>
+Root MFA	              Prevented unauthorized root access<br/>
+IAM Admin User	        Eliminated operational root usage <br/>
+AWS Budgets	            Cost anomaly detection & alerts </br>
+CloudTrail	            Full audit logging across regions <br/>
+IAM Access Analyzer	    Detection of risky access configurations </br>
 🧠 Security Architecture (Narrative)
 
 **Identity access was centralized using IAM, with MFA enforced for privileged access.
