@@ -17,7 +17,7 @@ The goal of this project is to secure the AWS account from day one using AWS bes
 - Root MFA
 - IAM Admin User (no root usage)
 - AWS Budgets & Alerts
-- CloudTrail (All Regions)
+- CloudTrail (For Regions)
 - IAM Access Analyzer
 
 ## Outcome
