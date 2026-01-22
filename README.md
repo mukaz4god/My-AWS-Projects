@@ -3,7 +3,7 @@
 # AWS Account & Security Baseline – Day 1 Project
 
 ## Scenario
-KFJ Solution Ltd is a fintech startup migrating to AWS without an existing cloud security baseline.
+KFJ Solutions Ltd is a fintech startup migrating to AWS without an existing cloud security baseline.
 The goal of this project is to secure the AWS account from day one using AWS best practices.
 
 ## Objectives
