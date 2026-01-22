@@ -37,7 +37,7 @@ Why? => Root has unlimited power. It should never be used for daily work.
       * AWS Management Console access
 4. Attach policy:
     * AdministratorAccess
-5. Create user (admin-user is my case and this can be any name you prefer)
+5. Create user (**admin-user** in my case and this can be any name you prefer)
 6. Log out from root
 7. Log in as admin-user
 8. Enable MFA for this user as well
@@ -53,7 +53,7 @@ Why? => Misconfigured resources can cost £££ overnight.
 2. Create budget:
     * Type: Cost Budget
     * Monthly limit: $5 (Free Tier safety)
-3. Add alerts (fixed or set threshold if need be:
+3. Add alerts (fixed or set threshold if need be):
     * 50% threshold → email (your email address to get the alert)
     * 80% threshold → email (your email address to get the alert)
     * 100% threshold → email (your email address to get the alert)
