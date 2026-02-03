@@ -24,8 +24,8 @@ The goal of this project is to secure the AWS account from day one using AWS bes
 I demonstrated creat an AWS account with security baseline with AWS account security fundamentals which aligned with:
 - AWS Well-Architected Framework (Security Pillar)
 - CIS AWS Foundations Benchmark
-
-## IAM Deep Dive (IAM Least Privilege & Access Control Failure) – Day 2 Project#
+---------------------------------------------------------------------------------------------------------------------------
+## IAM Deep Dive (IAM Least Privilege & Access Control Failure) – Day 2 Project
 
 ## Scenario
 A company runs a backend service on EC2 that uploads logs to S3.
