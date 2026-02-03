@@ -52,6 +52,8 @@ After remediation, the IAM role was restricted to allow write-only access to a s
 - EC2 retained only the permissions required for its business function
 - Security posture aligned with AWS Well-Architected Framework (Security Pillar)
 
+**By completing this project, you will have demonstrated, proven, and documented how improper IAM permissions create real security risk — and how to fix it using least privilege.**
+
 ## What I’d Improve Next
 
 - Enable CloudTrail to log IAM and S3 activity
