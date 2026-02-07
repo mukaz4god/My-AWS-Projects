@@ -19,7 +19,7 @@ Purpose: Simulate a developer or engineer
 ## Step 1.2 – Create S3 Bucket
 
 1. S3 → Create bucket
-2. Name: company-app-logs-<random>
+2. Name: kfj-company-app-logs-<random>
 3. Block public access: ON
 4. No bucket policy yet
 
