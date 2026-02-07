@@ -78,7 +78,7 @@ aws s3 ls
 You can list all S3 buckets.
 
 **aws s3 cp /etc/passwd s3://some-other-bucket/**
-**Note: 👉 This should NOT be allowed, but it works. Document this output — screenshots help.**
+**Note: 👉 This should NOT be allowed, but it works. Document this output — screenshots help.(I don't display this for security)**
 
 ## STEP 4: Fix with Least Privilege
 **1b. Least-Privilege Policy for EC2 → S3**
