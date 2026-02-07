@@ -69,8 +69,7 @@ This is exactly how real breaches happen.
 4. Enable SSH
 
 ## Step 3.2 – SSH into EC2
-ssh ec2-user@<public-ip>
-
+ssh ec2-user@public-ip OR ssh -i /path/tokeppair.pem ec2-user@public-ip
 ## Step 3.3 – Demonstrate the Problem
 aws s3 ls
 
