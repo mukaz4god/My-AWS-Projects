@@ -1,4 +1,4 @@
-# Day 40 – AWS Network Firewall
+# Day 32 – AWS Network Firewall
 
 ## Project Goal
 
