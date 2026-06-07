@@ -1,4 +1,4 @@
-# Day 39 – Route 53 DNSSEC
+# Day 31 – Route 53 DNSSEC
 
 ## Project Goal
 
