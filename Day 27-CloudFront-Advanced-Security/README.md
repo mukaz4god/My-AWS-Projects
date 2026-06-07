@@ -1,4 +1,4 @@
-# Day 35 – CloudFront Advanced Security
+# Day 27 – CloudFront Advanced Security
 
 ## Project Goal
 
