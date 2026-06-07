@@ -1,4 +1,4 @@
-# Day 36 – AWS WAF & DDoS Protection
+# Day 28 – AWS WAF & DDoS Protection
 
 ## Project Goal
 
