@@ -1,4 +1,4 @@
-# Day 34 – Transit Gateway
+# Day 26 – Transit Gateway
 
 ## Project Goal
 
