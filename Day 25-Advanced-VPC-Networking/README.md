@@ -1,4 +1,4 @@
-# Day 33 – Advanced VPC Networking
+# Day 25 – Advanced VPC Networking
 
 ## Project Goal
 
