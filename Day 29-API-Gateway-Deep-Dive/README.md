@@ -1,4 +1,4 @@
-# Day 37 – API Gateway Deep Dive
+# Day 29 – API Gateway Deep Dive
 
 ## Project Goal
 
